@@ -4,4 +4,4 @@ Then we imported the CSV files to the corresponding tables for then begin to que
 
 The donwload.pdf file was extracted since the delivery, how over for the relationshsip diagram I make with the same website.
 
-I attach the file.
+I attach the file "Relationshio diagram Miguel Olmos.png"
